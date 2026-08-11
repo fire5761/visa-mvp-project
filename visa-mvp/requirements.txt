@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pydantic[email]
+python-docx
+google-cloud-bigquery
+google-cloud-firestore
+google-cloud-aiplatform
+chromadb
+sendgrid

@@ -1,0 +1,35 @@
+{
+  "pdf_mapping": {
+    "english_name": {
+      "label": "Surname",
+      "offset_x": 15,
+      "offset_y": 9,
+      "font_size": 9
+    },
+    "arc_number_front": {
+      "label": "외국인등록번호",
+      "offset_x": 60,
+      "offset_y": 16,
+      "font_size": 10
+    },
+    "arc_number_back": {
+      "label": "외국인등록번호",
+      "offset_x": 170,
+      "offset_y": 16,
+      "font_size": 10
+    },
+    "address": {
+      "label": "주소",
+      "offset_x": 140,
+      "offset_y": 17,
+      "font_size": 9
+    },
+    "visa_type_checkbox_extension": {
+      "label": "체류기간",
+      "offset_x": -15,
+      "offset_y": 5,
+      "font_size": 10,
+      "value": "V"
+    }
+  }
+}

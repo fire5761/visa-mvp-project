@@ -1,0 +1,10 @@
+**/venv/
+**/node_modules/
+**/__pycache__/
+**/dist/
+**/.DS_Store
+**/*.pyc
+**/assets/gcp-key.json
+**/gcp-key.json
+**/*-key.json
+**/*.pem

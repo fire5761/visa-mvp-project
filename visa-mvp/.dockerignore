@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+.git/
+.gitignore
+visa-frontend/
+etl_load_requirements.py
+build_rag_index.py
+rag_test/
+*.md
+.customize_environment
